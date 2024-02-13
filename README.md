@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWYycmxmeXNhbnk3cjRnYjFmcnh1ZG9vZ2tlNGR6Y2QwcnA5Yjc2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RT3S8fkHUxECJJpwvT/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp5cmZscmdkNWJ1a3hrZ2FvZmo5Nm8xZjhzNzNlYXR1ejljempyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ca2IQQI3LfR1saF1vf/giphy.gif" width="80"/>
 </div>
 <h1 align="center">
-  Welcome, dear friend 
+  Hello, my name is Irene
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
