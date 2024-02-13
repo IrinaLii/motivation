@@ -8,7 +8,7 @@
 
 ### :maple_leaf: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Estonia (in the beginning of the journey).
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m studying as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :parachute: Exploring Technical Content Writing.
 
